@@ -1,55 +1,54 @@
 {
-  \”average-golf-scores\” : [
+  "average-golf-scores" : [
   {
-    \”rankthisweek\”: \”1\”,
-    \”ranklastweek\”: \”1\”,
-    \”playername\”: \”Jon Rahm\”,
-    \”rounds\”: \”78\”,
-    \”average\”: \”69.335\”,
-    \”totalstrokes\”: \”4780\”,
-    \”totaladjustment\”: \”4.106\”,
-    \”totalrounds\”: \”69\”
+    "rankthisweek": "1",
+    "ranklastweek": "1",
+    "playername": "Jon Rahm",
+    "rounds": "78",
+    "average": "69.335",
+    "totalstrokes": "4780",
+    "totaladjustment": "4.106",
+    "totalrounds": "69"
   },
   {
-    \”rankthisweek\”: \”2\”,
-    \”ranklastweek\”: \”2\”,
-    \”playername\”: \”Louis Oosthuizen\”,
-    \”rounds\”: \”73\”,
-    \”average\”: \”69.528\”,
-    \”totalstrokes\”: \”4605\”,
-    \”totaladjustment\”: \”-16.161\”,
-    \”totalrounds\”: \”66\”
+    "rankthisweek": "2",
+    "ranklastweek": "2",
+    "playername": "Louis Oosthuizen",
+    "rounds": "73",
+    "average": "69.528",
+    "totalstrokes": "4605",
+    "totaladjustment": "-16.161",
+    "totalrounds": "66"
   },
   {
-    \”rankthisweek\”: \”3\”,
-    \”ranklastweek\”: \”3\”,
-    \”playername\”: \”Dustin Johnson\”,
-    \”rounds\”: \”67\”,
-    \”average\”: \”69.635\”,
-    \”totalstrokes\”: \”4471\”,
-    \”totaladjustment\”: \”-14.364\”,
-    \”totalrounds\”: \”64\”
+    "rankthisweek": "3",
+    "ranklastweek": "3",
+    "playername": "Dustin Johnson",
+    "rounds": "67",
+    "average": "69.635",
+    "totalstrokes": "4471",
+    "totaladjustment": "-14.364",
+    "totalrounds": "64"
   },
   {
-    \”rankthisweek\”: \”4\”,
-    \”ranklastweek\”: \”11\”,
-    \”playername\”: \”Justin Thomas\”,
-    \”rounds\”: \”79\”,
-    \”average\”: \”69.763\”,
-    \”totalstrokes\”: \”5298\”,
-    \”totaladjustment\”: \”3.994\”,
-    \”totalrounds\”: \”76\”
+    "rankthisweek": "4",
+    "ranklastweek": "11",
+    "playername": "Justin Thomas",
+    "rounds": "79",
+    "average": "69.763",
+    "totalstrokes": "5298",
+    "totaladjustment": "3.994",
+    "totalrounds": "76"
   },
   {
-    \”rankthisweek\”: \”5\”,
-    \”ranklastweek\”: \”4\”,
-    \”playername\”: \”Collin Morikawa\”,
-    \”rounds\”: \”75\”,
-    \”average\”: \”69.765\”,
-    \”totalstrokes\”: \”4867\”,
-    \”totaladjustment\”: \”16.554\”,
-    \”totalrounds\”: \”70\”
+    "rankthisweek": "5",
+    "ranklastweek": "4",
+    "playername": "Collin Morikawa",
+    "rounds": "75",
+    "average": "69.765",
+    "totalstrokes": "4867",
+    "totaladjustment": "16.554",
+    "totalrounds": "70"
   }
 ]
 }
-
