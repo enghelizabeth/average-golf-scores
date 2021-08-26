@@ -1,5 +1,5 @@
 {
-  "average-golf-scores" : [{
+  "golfing-players" : [{
     "rankthisweek": "1",
     "ranklastweek": "1",
     "playername": "Jon Rahm",
@@ -48,6 +48,16 @@
     "totalstrokes": "4867",
     "totaladjustment": "16.554",
     "totalrounds": "70"
+  },
+  {
+    "rankthisweek": "3",
+    "ranklastweek": "3",
+    "playername": "Tiger Woods",
+    "rounds": "70",
+    "average": "66.168",
+    "totalstrokes": "4869",
+    "totaladjustment": "17.554",
+    "totalrounds": "75"
   }
 ]
 }
